@@ -1,4 +1,4 @@
-# Ghidra CTR Loader
+# Ghidra CTR Loader AAAAAAAAAAAAAAAAA
 
 This is a Ghidra loader for Nintendo 3DS executables.
 
