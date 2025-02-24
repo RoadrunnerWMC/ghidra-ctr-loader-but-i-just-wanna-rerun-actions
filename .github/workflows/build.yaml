@@ -25,6 +25,6 @@ jobs:
         with:
           arguments: buildExtension
       - name: Upload extension
-        uses: kittaakos/upload-artifact-as-is@v0
+        uses: kittaakos/upload-artifact-as-is@v1
         with:
           path: dist/*.zip
